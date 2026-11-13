@@ -4,6 +4,8 @@ A full-screen, monochrome text aquarium for Linux and macOS. Fish swim in
 both directions while rooted plants wave. The tank fills the terminal and
 automatically adjusts when it is resized.
 
+[demo-video.webm](https://github.com/user-attachments/assets/cb585185-dd23-41cc-8f13-ea6b50ce6005)
+
 ## Build and run
 
 Requires Go 1.24 or newer and a terminal with a valid `TERM` setting.
